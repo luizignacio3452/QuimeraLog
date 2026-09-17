@@ -11,7 +11,6 @@ Grupo 4 do Projeto Integrador em Logística do primeiro semestre. Projeto basead
 * [Cronograma do projeto]()
 * [Backlog do produto]()
 * [Competências desenvolvidas]()
-* [Autores]()
 
 # Cronograma do projeto
 
@@ -23,3 +22,13 @@ Sprint | Previsão | Status| Histórico|
 |Sprint 02| 29/10/2026 | A Fazer🗒️ |[Ver Relatório]() | 
 |Sprint 03| 26/11/2026 | A Fazer 🗒️|[Ver Relatório]()  | 
 |Feira de Soluções| 03/12/2026 | A Fazer 🗒️|[Ver Relatório]() | 
+
+# Equipe
+
+Nome | Função |
+|------|--------|
+|Bianca de Fátima Campos | Scrum Master | 
+|Jéssica oliveira dos Santos Castro | Product Owner | 
+|Luiz Miguel Ferreira Ignácio| Team Member | 
+|Maria Clara Cardozo Andrade | Team Member |
+|Pedro Henrique Skug Ferreira | Team Member |
